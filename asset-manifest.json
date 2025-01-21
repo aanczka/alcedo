@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alcedo/static/css/main.5c4ccd8b.css",
+    "main.js": "/alcedo/static/js/main.336cb595.js",
+    "static/js/488.af104311.chunk.js": "/alcedo/static/js/488.af104311.chunk.js",
+    "index.html": "/alcedo/index.html",
+    "main.5c4ccd8b.css.map": "/alcedo/static/css/main.5c4ccd8b.css.map",
+    "main.336cb595.js.map": "/alcedo/static/js/main.336cb595.js.map",
+    "488.af104311.chunk.js.map": "/alcedo/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4ccd8b.css",
+    "static/js/main.336cb595.js"
+  ]
+}
