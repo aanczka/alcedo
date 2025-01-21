@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light shadow-sm custom-navbar">
       <div className="container">
-        <a className="navbar-brand" href="">
+        <a className="navbar-brand" href="#">
           ALCEDO
         </a>
         <button
@@ -24,12 +24,12 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="#">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="#">
                 About Us
               </a>
             </li>
@@ -46,17 +46,17 @@ const Navbar = () => {
               </a>
               <ul className="dropdown-menu" aria-labelledby="coursesDropdown">
                 <li>
-                  <a className="dropdown-item" href="">
+                  <a className="dropdown-item" href="#">
                     Education
                   </a>
                 </li>
                 <li>
-                  <a className="dropdown-item" href="">
+                  <a className="dropdown-item" href="#">
                     Career Development
                   </a>
                 </li>
                 <li>
-                  <a className="dropdown-item" href="">
+                  <a className="dropdown-item" href="#">
                     Nutrition
                   </a>
                 </li>
@@ -68,12 +68,12 @@ const Navbar = () => {
               </ul>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="#">
                 Projects
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="#">
                 Contact
               </a>
             </li>
