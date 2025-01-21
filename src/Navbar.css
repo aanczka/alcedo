@@ -1,0 +1,45 @@
+/* Navbar background and brand styling */
+.custom-navbar {
+    background-color: #273549; /* Dark slate */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    color: #ffffff; /* Golden brown */
+  }
+  
+  .navbar-brand:hover {
+    color: #ffffff; /* Light tan */
+  }
+  
+  /* Nav link colors */
+  .nav-link {
+    color: #d4cdc2; /* Light beige */
+    font-weight: 500;
+  }
+  
+  .nav-link:hover {
+    color: #a27340; /* Golden brown */
+  }
+  
+  /* Dropdown menu styling */
+  .dropdown-menu {
+    background-color: #514347; /* Darker mauve */
+    border: none;
+  }
+  
+  .dropdown-item {
+    color: #d4cdc2; /* Light beige */
+  }
+  
+  .dropdown-item:hover {
+    background-color: #5b728a; /* Muted blue-gray */
+    color: #d4cdc2; /* Keep text color */
+  }
+  
+  /* Toggler icon customization */
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(212,205,194, 1)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  
+  
