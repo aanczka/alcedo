@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aanczka.github.io/alcedo",
+  "homepage": "https://alcedo-aec.pl",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.2",
     "bootstrap": "^5.3.3",
